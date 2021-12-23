@@ -12,4 +12,19 @@ body .link {
 }
 body {
     background-color: black;
+    text-align: center;
+}
+h2 {
+    color: white;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+h3 {
+    color: gray;
+    font-family: verdana;
+    font-size: 21px;
+}
+body video {
+    text-align: center;
 }
