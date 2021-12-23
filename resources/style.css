@@ -28,3 +28,7 @@ h3 {
 body video {
     text-align: center;
 }
+body h4 {
+    text-align: right;
+    color: gray;
+}
